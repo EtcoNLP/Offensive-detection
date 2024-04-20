@@ -1,0 +1,11 @@
+The repository includes 2 main folders:
+1- Corpus: 
+It includes 2 datasets used in the study, the first one is Mubarak's, and the second is Alakrot's. 
+Inside each dataset folder, there are several versions of the dataset either the original_dataset 
+as taken from its published paper and it represents the pipeline, or segmented_dataset or clean_dataset that is used after doing some pre-processing steps.
+The dataset folder also includes some word visualization of the datasets before and after removing the stop words.
+
+2- Models: 
+It includes the file codes of models used in the study such as Naive Based (NB), Support Vector Machine (SVM), Kesar, and Logistic Regression. 
+Some models were used for different versions of the dataset either for the pipeline or segmented versions. The folder also includes
+the file code for the pre-processing step. 
